@@ -28,7 +28,7 @@ url: "dhanyaganesh.me" # the base hostname & protocol for your site, e.g. http:/
 github_username:  dhanyaganesh
 
 # Build settings
-theme: starving-artist-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 
