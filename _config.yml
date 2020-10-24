@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My First Site Ever"
+title                    : "Dhanya's Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dhanya Ganesh"
 description              : "My amazing website that I made with Jekyll."
-url                      : "https://dhanyaganesh.github.io"
+url                      : "www.dhanyaganesh.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dhanyaganesh/dhanyaganesh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,24 +95,24 @@ analytics:
 author:
   name             : "Dhanya Ganesh"
   avatar           : assets/images/prof.jpg
-  bio              : "I am a full time software engineer."
+  bio              : "He/Him. Software engineer @Google."
   location         : "Boulder, Colorado"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dhanyaganesh3@gmail.com"
+      url: "mailto:dhanyaganesh<three as a number>@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dhanyaganesh.github.io"
+      url: "https://dhanyaganesh.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fas fa-fw fa-github-square"
+      icon: "fas fa-fw fa-code-branch"
       url: "https://github.com/dhanyaganesh"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/dhanya-ganesh"
 
 # Site Footer
@@ -125,7 +125,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fas fa-fw fa-github-square"
+      icon: "fas fa-fw fa-code-branch"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
